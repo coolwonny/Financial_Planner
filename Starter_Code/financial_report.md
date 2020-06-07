@@ -6,9 +6,14 @@
 ## Budget Analysis
 ---
 
+<<<<<<< HEAD
 From the Plaid transactions data for the past 90 days from now, we sorted out 6 different spending categories and aggregated spendings in the same categories as shown in the table below.   
 
 ![Total Expenses per category](expense_groupby_category.png)
+=======
+From the Plaid transactions data for the past 90 days from now, we sorted out 6 different spending categories and aggregated spendings in the same categories as shown in the table below.
+![Total Expenses per category](expense groupby category.png)
+>>>>>>> 781c08e658836720499bd02bcc1e3a67bf3878df
 
 Also, we plotted it in a pie chart.
 ![Spending Categories Pie Chart](pie_chart_new.png)
