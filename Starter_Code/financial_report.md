@@ -13,7 +13,8 @@ From the Plaid transactions data for the past 90 days from now, we sorted out 6 
 From the Plaid transactions data for the past 90 days from now, we sorted out 6 different spending categories and aggregated spendings in the same categories as shown in the table below.
 ![Total Expenses per category](expense groupby category.png)
 
-Also, we plotted it in a pie chart.
+Also, we plotted it in a pie chart.    
+
 ![Spending Categories Pie Chart](pie_chart_new.png)
 
 As shown, 'Transfer' takes the overwhelming part of total expenses followed by 'Payment' and 'Food & Drink'. Transfer has two major transactions, ACH Electronic Credit($17.5K) and CD Deposit($3K) while Payment does automatic payments ($6.2K).
