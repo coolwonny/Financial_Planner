@@ -6,8 +6,9 @@
 ## Budget Analysis
 ---
 
-From the Plaid transactions data for the past 90 days from now, we sorted out 6 different spending categories and aggregated spendings in the same categories as shown in the table below.
-![Total Expenses per category](Financial_Planner\Images\expense groupby category.png)
+From the Plaid transactions data for the past 90 days from now, we sorted out 6 different spending categories and aggregated spendings in the same categories as shown in the table below.   
+
+![Total Expenses per category](expense_groupby_category.png)
 
 Also, we plotted it in a pie chart.
 ![Spending Categories Pie Chart](pie_chart_new.png)
@@ -19,7 +20,7 @@ Next, we grouped the expenses data into each month. Surprisingly we had the exac
 
 ![Monthly expenses](Monthly_spending.png)    
 
-Also, plotted in bar chart.    
+Also, we plotted in a bar chart.    
 
 ![Monthly spending bar chart](bar_chart.png)
 
@@ -36,7 +37,7 @@ The strategy here is quite conservative and reasonable given the risk/return bal
 
 We ran the monte carlo simulation 500 times for 30 years.     
 
-![500 Simulation of Cumulative Portfolio Return Trajectories over the next 30 years](500 simulations_cumulative_return.png)
+![500 Simulation of Cumulative Portfolio Return Trajectories over the next 30 years](500_simulations_cumulative_return.png)
 
 From the above, we can see that the graphs are almost flat until 10 years after which the range or band becomes soaring to the end that comes in the next 30 years. In the next bar chart showing the distribution of the ending day return(after 30 years), we can figure out the portfolio returns would be between 3700% and 9100%, given 90% confidence interval.   
 
