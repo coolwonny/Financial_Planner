@@ -7,7 +7,7 @@
 ---
 
 From the Plaid transactions data for the past 90 days from now, we sorted out 6 different spending categories and aggregated spendings in the same categories as shown in the table below.
-![Total Expenses per category](Financial_Planner\Images\expense groupby category.png)
+![Total Expenses per category](expense groupby category.png)
 
 Also, we plotted it in a pie chart.
 ![Spending Categories Pie Chart](pie_chart_new.png)
