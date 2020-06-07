@@ -1,7 +1,8 @@
 # Financial Report
 
 ---
-
+       
+       
 
 ## Budget Analysis
 ---
@@ -31,7 +32,10 @@ Also, we plotted in a bar chart.
 Regardless of the accuracy of data provided, the monthly spending has been absolutely stable and each category shows exactly the same patterns over the 3 months period.
 
 On the other hand, the data returned previous annual income, monthly income and projected annual income. According to them, monthly income is $0.5K and annual gross income was $7.3K last year and would be $7.4K for the coming year. Given these and expenses for the current 90 days, the target client could be in solvency unless he do not bring more cash from other assets; the average monthly spending($10.6K) could not be covered by the monthly income($0.5K), generating monthly deficit of -$10.1K, which will bring annual deficit of $ 121K.
-
+      
+           
+           
+     
 ## Retirement Planning
 ---
 
