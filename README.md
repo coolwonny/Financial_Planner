@@ -18,8 +18,8 @@ In this project, you will complete the following tasks:
 
 ---
 
-### Files are under the `Starter_code` directory:
- 1. account_summary.ipynb
- 2. portfolio_planner.ipynb
- 3. early_retirement(optional).ipynb
+### Files:
+ 1. account_summary.ipynb: Budget Analysis with Plaid
+ 2. portfolio_planner.ipynb: Retirement Planner
+ 3. early_retirement(optional).ipynb: Early Retirement Plan
  4. financial_report.md
